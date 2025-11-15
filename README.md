@@ -5,7 +5,7 @@
 
 ## [www.guscosta.com](https://www.guscosta.com/)&nbsp;  &nbsp;  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gus-dacosta/)
 
-💼 Junior Web Developer and Designer at Jala Design.
+💼 Junior Web Developer, Designer and Client support specialist at Jala Design.
 
 🎓 Diploma of Information Technology from Coder Academy.
 
